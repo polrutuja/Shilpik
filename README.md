@@ -28,10 +28,10 @@ cd shilpik
 3.run live server on index.html
 
 ## Usage
--Home Page: Displays an image slider with a welcoming text.
--About Us: Provides information about the cultural heritage of Indian handicrafts.
--Products: Allows users to choose different categories of handmade crafts and can view the various handicrafts items
--Contact: Includes a form to get in touch, with validation to ensure all fields are filled out correctly.
+- Home Page: Displays an image slider with a welcoming text.
+- About Us: Provides information about the cultural heritage of Indian handicrafts.
+- Products: Allows users to choose different categories of handmade crafts and can view the various handicrafts items
+- Contact: Includes a form to get in touch, with validation to ensure all fields are filled out correctly.
 
 ## Website preview
 ![image](https://github.com/polrutuja/Shilpik/assets/162364185/c1b21604-0513-4fec-ae26-f05efaf4f278)
