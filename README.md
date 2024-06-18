@@ -1,9 +1,10 @@
 # Shilpik - Handmade Crafts Website
 Welcome to the Shilpik website! This project showcases a variety of handmade crafts, including antiques, ceramics, embroidery, block printing, pottery, puppets, and paper mache art. The site is built with HTML, CSS, and JavaScript to provide a user-friendly and responsive interface.
 
+#### See live website here : https://polrutuja.github.io/Shilpik/
+
 - [Introduction](#introduction)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 
